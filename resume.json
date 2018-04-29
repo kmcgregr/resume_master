@@ -1,0 +1,160 @@
+{
+  "basics": {
+    "name": "Kevin McGregor MSc, BSc, CITA-A",
+    "label": "IT Architect",
+    "email": "kevin.mcgregor@outlook.com",
+    "website": "http://kevin-mcgregor.bitballoon.com",
+    "summary": "I am an IT Architect with 15 years experience in the IT field.Experience with both the software and infrastructure        stack",
+    "location": {
+      "city": "London",
+      "countryCode": "CA",
+      "region": "Ontario"
+    },
+    "profiles": [
+      {
+        "network": "Blog",
+        "username": "kdmcgreg"
+        "url": "http://kdmcgregor.wordpress.com/",
+        
+      },
+      {
+        "network": "Twitter",
+        "username": "kdmcgreg",
+        "url": "http://twitter.com/kdmcgreg"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "kmcgregr",
+        "url": "http://ca.linkedin.com/in/kevindmcgregor"
+      },
+      {
+        "network": "Google+",
+        "username": "kmcgregr",
+        "url": "https://plus.google.com/+KevinMcGregor/"
+        
+      }
+        
+    ]
+  },
+  "work": [
+    {
+      "company": "London Life",
+      "position": "Systems Architect",
+      "website": "http://www.londonlife.com",
+      "startDate": "2008-03-04",
+      "summary": ["Consult with business clients and account management.",
+                  "Define and maintain technical architecture",
+	              "Act as the focal point for significant infrastructure and development issues throughout all phases of projects", 
+	              "Lead the definition of Information Technology technical solutions", 
+	              "Ensure quality designs and implementations", 
+	              "Provide leadership within the IS Division"                
+                 
+                 ],
+      "highlights": [
+        "Recommended the use of the ‘Prime the Pump’ agile principle to allow the infrastructure development life cycle to align with          the agile software development life cycle",
+         "Lead architect for the implementation of an infrastructure architecture to support a web based Underwriting and Insurance             Application systems.  Infrastructure stack include IBM P740, Websphere Application Server, AIX, VNX SAN", 
+         "Lead architect for the integration of Amazon Simple Storage Service to implement software distribution of Illustration               Sales software which reduced the cost to distribute software by 90%",
+         "Project lead for the architecture of an ASP .NET income illustration system that integrated with J2EE portal",
+          "Lead architect for a third party VB.NET illustration system that integrated with existing legacy illustrations systems.              Illustration system was deployed on .NET 4.0 framework"
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "position": "Software Development Engineer in Test, Common Language Runtime",
+      "website": "http://www.microsoft.com/net",
+      "startDate": "2012-01-22",
+      "endDate": "2014-03-04",
+      "summary": "Responsible for integration, dynamic testing and diagnostics of the Common Language Runtime.",
+      "highlights": [
+        "Created innovative test validations and infrastructure for Microsoft .NET Runtime debugger and diagnostics APIs consumed by Visual Studio ",
+        "Extended Visual Studio Test Explorer it to run complex end-to-end scenario tests",
+        "Assisted in customer on-boarding to .NET 4.5.1 by syncing with feature teams to diagnose issues",
+        "Drove product test results and collaborated with various feature teams across .NET to drive validation pass rates"
+      ]
+    },
+    {
+      "company": "Lockheed Martin Mission Systems",
+      "position": "Software Engineer Intern (4 summers)",
+      "website": "http://www.lockheedmartin.com",
+      "startDate": "2008-01-22",
+      "endDate": "2011-08-01",
+      "summary": "Obtained critical experience during college on software development for mission-critical scenarios.",
+      "highlights": [
+        "Designed system requirements for autonomous underwater vehicle ",
+        "Designed and implemented features on common software for use with multiple vehicles ",
+        "Performed software cost estimates",
+        "Implemented software features for sonar system displays"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "TEALS",
+      "position": "Teacher",
+      "website": "http://tealsk12.org",
+      "startDate": "2012-07-01",
+      "endDate": "2013-05-05",
+      "summary": "High school Teacher for an inner-city computer science class.",
+      "highlights": [
+        "Featured in the International New York Times"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Florida",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2007-08-01",
+      "endDate": "2011-12-01",
+      "gpa": "3.47"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Visual Studio Team Excellence Light House Award",
+      "date": "2013-04-01",
+      "awarder": "Visual Studio Team - Microsoft",
+      "summary": "Given to member of the Visual Studio team who goes above and beyond their role."
+    }
+  ],
+  "skills": [
+    {
+      "name": "C# and .NET",
+      "level": "Master",
+      "keywords": [
+        "C#"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermediate",
+      "keywords": [
+        "javascript",
+        "express"
+      ]
+    },
+    {
+      "name": "Cloud Services",
+      "level": "Master",
+      "keywords": [
+        "PaaS",
+        "Storage",
+        "APIs"
+      ]
+    },
+    {
+      "name": "iOS Application Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Objective-C"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
